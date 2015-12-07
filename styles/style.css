@@ -1,0 +1,100 @@
+* { box-sizing: border-box;}
+
+.header { padding:1em 0; text-align:center; align-content:center;
+  margin: 5px 0 0 0
+}
+.col { background: gold; padding: .25em .25em; text-align:left;
+}
+body { padding:.05em; font: 100%/1.4 'Calibri', arial, helvetica, helve, serif; background-color: orange;
+}
+article class="col span_2_of_4" {
+  width: 50%
+}
+.div class="section group" {
+  width: 75%;
+}
+article class="col span_6_of_8" {
+  width: 100%;
+  align-content:center;
+}
+.aside class="col span_1_of_4" {
+  width: 50%;
+  margin: 0 5px 0 5px;
+}
+h1 { 
+  width: 100%; text-align: auto; 
+  color: orangered;  
+  letter-spacing: 3px; 
+  font-family: "Calibri", cursive, serif; font-size: 3.5em; padding:0 0 .5em 0;
+  text-shadow: 5px 5px 10px saddlebrown;
+  margin: auto;
+}
+h2 { 
+  width: 100%; text-align: center;
+  color: orangered;
+  font-size: 2.5em;
+  align-content: center;
+  font-family: "Calibri", cursive, serif; 
+  text-shadow: 5px 5px 10px saddlebrown;
+  margin: 30px 0 5px 0;
+}
+h3 {
+  width: 100%; text-align: center;
+  color: saddlebrown;
+  font-size: 2.5em;
+  font-family: 'Calibri', cursive, serif; 
+  padding-bottom: 5px; padding-left: 5px; padding-top: 5px; padding-right: 5px;
+  text-align: center;
+  text-shadow: 5px 5px 10px goldenrod;
+  margin: auto;
+}
+h4 {
+  width: 100%; text-align: left;
+  color: saddlebrown;
+  font-size: 2.0em;
+  font-family: 'Calibri', cursive, serif;
+  text-shadow: 5px 5px 10px lightgreen;
+  margin: 0 10px 0;
+}
+
+/* visited link */
+a:visited {
+  color: saddlebrown;
+}
+/* mouse over link */
+a:hover {
+  color: orangered;
+}
+a {
+  color: saddlebrown;
+  text-decoration: underline;
+  padding-bottom: 10px;
+  font-family: "Calibri", cursive, serif; font-weight: bolder;
+}
+p {
+ font-family: "Calibri", cursive, serif; font-size: 1em; color: saddlebrown;
+ margin: 0 20px 40px 10px;
+ text-align: left;
+}
+iframe {
+  border: 10px solid saddlebrown;
+  margin: auto; 
+  width: 100%
+}
+img {
+  border: 10px solid orangered;
+  width: 90%;
+  margin: 10px 19px 0 8px;
+}
+li { 
+  color: saddlebrown; font-family: "Calibri", cursive, serif;
+  margin: 5px 0 5px ;
+}
+footer {
+  color: saddlebrown; 
+  font-family: "Calibri", cursive, serif; font-weight: bolder;
+  margin: 5px 0 5px;
+}
+address {
+  margin: auto; font-family: "Calibri", cursive, serif; font-weight: bolder;
+}
