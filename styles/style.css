@@ -1,51 +1,17 @@
 * { box-sizing: border-box;}
 
-<<<<<<< HEAD
 header { padding:1em 0; text-align:center; align-content:center;
 margin: 5px 0 0 0;
 }
 
 .col { background: gold; padding: .25em; text-align:left;
-=======
-.header { padding:1em 0; text-align:center; align-content:center;
-  margin: 5px 0 0 0
-}
-
-.col { background: gold; padding: .25em .25em; text-align:left;
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 }
 
 body { padding:.05em; font: 100%/1.4 'Calibri', arial, helvetica, helve, serif; background-color: orange;
 }
-<<<<<<< HEAD
 aside {
   font-size: .9rem;
 }
-=======
-
-article class="col span_2_of_4" {
-  width: 50%
-}
-
-.div class="section group" {
-  width: 75%;
-}
-
-article class="col span_6_of_8" {
-  width: 100%;
-  align-content:center;
-}
-
-aside {
-  font-size: .9rem;
-}
-
-.aside class="col span_1_of_4" {
-  width: 50%;
-  margin: 0 5px 0 5px;
-}
-
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 h1 { 
   width: 100%; text-align: auto; 
   color: orangered;  
@@ -54,10 +20,6 @@ h1 {
   text-shadow: 5px 5px 10px saddlebrown;
   margin: auto;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 h2 { 
   width: 100%; text-align: center;
   color: orangered;
@@ -67,10 +29,6 @@ h2 {
   text-shadow: 5px 5px 10px saddlebrown;
   margin: 30px 0 5px 0;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 h3 {
   width: 100%; text-align: center;
   color: saddlebrown;
@@ -81,10 +39,6 @@ h3 {
   text-shadow: 5px 5px 10px goldenrod;
   margin: auto;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 h4 {
   width: 100%; text-align: left;
   color: saddlebrown;
@@ -93,33 +47,20 @@ h4 {
   text-shadow: 5px 5px 10px lightgreen;
   margin: 0 10px 0;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 /* visited link */
 a:visited {
   color: saddlebrown;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 /* mouse over link */
 a:hover {
   color: orangered;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 a {
   color: saddlebrown;
   text-decoration: underline;
   padding-bottom: 10px;
   font-family: "Calibri", cursive, serif; font-weight: bolder;
 }
-<<<<<<< HEAD
 p {
  font-family: "Calibri", cursive, serif; font-size: 1em; color: saddlebrown;
  margin: 0 20px 40px 5px;
@@ -146,42 +87,4 @@ footer {
 }
 address {
   margin: 10px; font-family: "Calibri", cursive, serif; font-weight: bolder;
-=======
-
-p {
-  font-family: "Calibri", cursive, serif; font-size: 1em; color: saddlebrown;
-  margin: 0 20px 40px 10px;
-  text-align: left;
-}
-
-footer p {
-  margin: 0px 20px 5px 10px;
-}
-
-iframe {
-  border: 10px solid saddlebrown;
-  margin: auto; 
-  width: 100%
-}
-
-img {
-  border: 10px solid orangered;
-  width: 90%;
-  margin: 10px 19px 0 8px;
-}
-
-li { 
-  color: saddlebrown; font-family: "Calibri", cursive, serif;
-  margin: 5px 0 5px ;
-}
-
-footer {
-  color: saddlebrown; 
-  font-family: "Calibri", cursive, serif; font-weight: bolder;
-  margin: 5px 0 5px;
-}
-
-address {
-  margin: auto; font-family: "Calibri", cursive, serif; font-weight: bolder;
->>>>>>> d7d2ff7a418948f3ffaaf530ce05bad101473ff8
 }
